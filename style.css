@@ -53,3 +53,25 @@
     height:250px;
 }
 
+.nav {
+    list-style: none;
+
+}
+
+.home {
+    display: inline;
+    color: teal;
+
+}
+
+.gallery {
+    display: inline;
+    color: teal;
+    
+}
+
+.contact {
+    display:inline;
+    color: teal;
+}
+
